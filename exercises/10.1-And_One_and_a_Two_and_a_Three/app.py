@@ -5,3 +5,8 @@ contact = {
 }
 #Your code here:
 
+
+for llave, valor in contact.items():
+   print(llave,":", valor)
+
+
