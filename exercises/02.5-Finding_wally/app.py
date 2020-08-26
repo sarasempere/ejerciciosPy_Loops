@@ -2,3 +2,9 @@ people = [ 'Lebron','Aaliyah','Diamond','Dominique','Aliyah','Jazmin','Darnell',
 
 #Your code here:
 
+
+for i, enu in enumerate(people):
+    if enu!="Wally":
+        continue
+    print(i)
+            
