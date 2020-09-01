@@ -5,13 +5,13 @@ names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','Logan
 'Matthew','Ella','Aiden','Madison','Henry','Scarlett','Joseph','Victoria','Jackson','Aria',
 'Samuel','Grace','Sebastian','Chloe','David','Camila','Carter','Penelope','Wyatt','Riley']
 
-#Your code go here:
-def my_function(lista):
-    my_list = []
-    for i in lista:
-        if("am" in lista):
-          return print(i)
-          continue
-       
 
-my_function(names)
+#Your code go here:
+def filter_list (item):
+    to_lower = item.lower()
+    if "am" in item:
+        return True
+
+new_list = list(filter(filter_list, names))        
+        
+print(new_list)        

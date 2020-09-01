@@ -342,7 +342,7 @@
         {
             "slug": "11-Nested_list",
             "title": "11-Nested_list",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Nested_list",
             "translations": [
                 "es",
@@ -353,7 +353,7 @@
         {
             "slug": "12-Map_a_list",
             "title": "12-Map_a_list",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Map_a_list",
             "translations": [
                 "es",
@@ -364,7 +364,7 @@
         {
             "slug": "12.1-more_mapping",
             "title": "12.1-more_mapping",
-            "done": false,
+            "done": true,
             "path": "exercises/12.1-more_mapping",
             "translations": [
                 "es",
@@ -375,7 +375,7 @@
         {
             "slug": "12.2-Map_function_inside_variable",
             "title": "12.2-Map_function_inside_variable",
-            "done": false,
+            "done": true,
             "path": "exercises/12.2-Map_function_inside_variable",
             "translations": [
                 "es",
@@ -386,7 +386,7 @@
         {
             "slug": "12.3-Map_data_types",
             "title": "12.3-Map_data_types",
-            "done": false,
+            "done": true,
             "path": "exercises/12.3-Map_data_types",
             "translations": [
                 "es",
@@ -408,7 +408,7 @@
         {
             "slug": "12.5-Yes_and_no",
             "title": "12.5-Yes_and_no",
-            "done": false,
+            "done": true,
             "path": "exercises/12.5-Yes_and_no",
             "translations": [
                 "es",
@@ -419,7 +419,7 @@
         {
             "slug": "12.6-Transformers",
             "title": "12.6-Transformers",
-            "done": false,
+            "done": true,
             "path": "exercises/12.6-Transformers",
             "translations": [
                 "es",
@@ -430,7 +430,7 @@
         {
             "slug": "13-Filter_list",
             "title": "13-Filter_list",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Filter_list",
             "translations": [
                 "es",
@@ -441,7 +441,7 @@
         {
             "slug": "13.1-Filter_and_list",
             "title": "13.1-Filter_and_list",
-            "done": false,
+            "done": true,
             "path": "exercises/13.1-Filter_and_list",
             "translations": [
                 "us"
@@ -451,7 +451,7 @@
         {
             "slug": "13.2-filter_done_tasks",
             "title": "13.2-filter_done_tasks",
-            "done": false,
+            "done": true,
             "path": "exercises/13.2-filter_done_tasks",
             "translations": [
                 "es",
@@ -462,7 +462,7 @@
         {
             "slug": "13.3-Filter_list_strings",
             "title": "13.3-Filter_list_strings",
-            "done": false,
+            "done": true,
             "path": "exercises/13.3-Filter_list_strings",
             "translations": [
                 "es",

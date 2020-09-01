@@ -13,3 +13,6 @@ tasks = [
 
 #Your code go here:
 
+
+filter_tasks = list(filter(lambda x: x["done"], tasks))
+print(filter_tasks)
